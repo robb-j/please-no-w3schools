@@ -1,0 +1,8 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "path" : "bin\/build.sh"
+    }
+  }
+}
