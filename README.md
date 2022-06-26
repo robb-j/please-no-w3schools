@@ -18,6 +18,13 @@ The line and opacity of w3schools links are reset on hover if you are desperate.
 8. Push the commit and tag to GitHub
 9. Create a release from the tag, attach the zip and copy changes
 
+## Safari project
+
+```sh
+# cd to/this/folder
+xcrun safari-web-extension-converter --app-name PleaseNoW3Schools --bundle-identifier io.r0b.io.PleaseNoW3Schools .
+```
+
 ## Installation
 
 > Coming soon

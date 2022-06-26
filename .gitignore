@@ -1,2 +1,5 @@
 *.zip
 .DS_Store
+
+# Xcode
+xcuserdata/
