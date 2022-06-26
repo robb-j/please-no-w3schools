@@ -1,4 +1,6 @@
 :not(:hover) a[href*='w3schools.com'] {
   opacity: 0.5;
-  text-decoration: line-through solid red 4px;
+  text-decoration: line-through;
+  text-decoration-color: red;
+  text-decoration-thickness: 4px;
 }
