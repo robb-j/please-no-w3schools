@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Please no W3Schools",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Strikes-through and hides www.w3schools.com links",
   "icons": {
     "48": "icons/icon-48.png",
