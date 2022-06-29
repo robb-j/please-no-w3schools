@@ -6,6 +6,13 @@ The line and opacity of w3schools links are reset on hover if you are desperate.
 
 ![A search for css border with w3schools.com links crossed out](/screenshot.png)
 
+
+## Installation
+
+<a href="https://addons.mozilla.org/en-GB/firefox/addon/please-no-w3schools/" title="Install on Firefox">
+<img width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png">
+</a>
+
 ## Release process
 
 1. Ensure git is clean
@@ -24,10 +31,6 @@ The line and opacity of w3schools links are reset on hover if you are desperate.
 # cd to/this/folder
 xcrun safari-web-extension-converter --app-name PleaseNoW3Schools --bundle-identifier io.r0b.io.PleaseNoW3Schools .
 ```
-
-## Installation
-
-> Coming soon
 
 ---
 
