@@ -23,6 +23,8 @@ The line and opacity of w3schools links are reset on hover if you are desperate.
 </a>
 -->
 
+> To install on Safari, download and unzip the app, drag it to your Applications folder and launch it.
+
 ## Release process
 
 1. Ensure git is clean
