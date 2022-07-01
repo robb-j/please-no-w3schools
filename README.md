@@ -10,8 +10,18 @@ The line and opacity of w3schools links are reset on hover if you are desperate.
 ## Installation
 
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/please-no-w3schools/" title="Install on Firefox">
-<img width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png">
+<img width="64px" height="64px" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_64x64.png">
 </a>
+
+<a href="https://github.com/robb-j/please-no-w3schools/releases/" title="Install on Safari">
+<img width="64px" height="64px" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_64x64.png">
+</a>
+
+<!--
+<a href="https://github.com/robb-j/please-no-w3schools/releases/" title="Install on Chrome / Edge / Brave">
+<img width="64px" height="64px" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_64x64.png">
+</a>
+-->
 
 ## Release process
 
