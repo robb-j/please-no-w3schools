@@ -17,11 +17,9 @@ The line and opacity of w3schools links are reset on hover if you are desperate.
 <img width="64px" height="64px" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_64x64.png">
 </a>
 
-<!--
-<a href="https://github.com/robb-j/please-no-w3schools/releases/" title="Install on Chrome / Edge / Brave">
+<a href="https://chrome.google.com/webstore/detail/please-no-w3schools/keicipndekfhpaobbbldjbojpajdbpla" title="Install on Chrome / Edge / Brave">
 <img width="64px" height="64px" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_64x64.png">
 </a>
--->
 
 > To install on Safari, download and unzip the app, drag it to your Applications folder and launch it.
 
