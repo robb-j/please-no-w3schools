@@ -1,10 +1,10 @@
 # please-no-w3schools
 
-Put a big red line through w3schools.com links in [duckduckgo](https://duckduckgo.com/) search results.
+Put a big red line through w3schools.com links in search results.
 This browser extension only adds [no-w3schools.css](/no-w3schools.css) to the websites below.
 The line and opacity of w3schools links are reset on hover if you are desperate.
 
-![A search for css border with w3schools.com links crossed out](/screenshot.png)
+![A search for css border with w3schools.com links crossed out](/support/general-screenshot.png)
 
 ## Websites
 
@@ -26,7 +26,7 @@ Click the browser you want to install with:
 <img width="64px" height="64px" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_64x64.png">
 </a>
 
-<a href="https://chrome.google.com/webstore/detail/please-no-w3schools/keicipndekfhpaobbbldjbojpajdbpla" title="Install on Chrome / Edge / Brave">
+<a href="https://chrome.google.com/webstore/detail/mcoiggphdkacghmdlbgoflibjafiidhp" title="Install on Chrome / Edge / Brave">
 <img width="64px" height="64px" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_64x64.png">
 </a>
 
