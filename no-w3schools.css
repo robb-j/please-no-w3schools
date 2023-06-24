@@ -1,5 +1,11 @@
-:not(:hover) a[href*='w3schools.com'] {
+a[href*='w3schools.com']:not(:hover) {
   opacity: 0.5;
+  text-decoration: line-through;
+  text-decoration-color: red;
+  text-decoration-thickness: 4px;
+}
+a[href*='w3schools.com']:not(:hover),
+a[href*='w3schools.com']:not(:hover) * {
   text-decoration: line-through;
   text-decoration-color: red;
   text-decoration-thickness: 4px;
