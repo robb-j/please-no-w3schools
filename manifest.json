@@ -9,7 +9,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://*.duckduckgo.com/*"],
+      "matches": ["*://*.duckduckgo.com/*", "*://*.google.com/*", "*://*.bing.com/*", "*://*.ecosia.org/*", "*://*.yahoo.com/*"],
       "css": ["no-w3schools.css"]
     }
   ]
