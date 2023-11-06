@@ -12,6 +12,7 @@
       "matches": [
         "*://*.duckduckgo.com/*",
         "*://*.google.com/*",
+        "*://*.google.co.uk/*",
         "*://*.bing.com/*",
         "*://*.ecosia.org/*",
         "*://*.yahoo.com/*"
