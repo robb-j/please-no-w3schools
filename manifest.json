@@ -17,7 +17,8 @@
         "*://*.ecosia.org/*",
         "*://*.yahoo.com/*"
       ],
-      "css": ["no-w3schools.css"]
+      "css": ["no-w3schools.css"],
+      "js": ["no-w3schools.js"]
     }
   ]
 }

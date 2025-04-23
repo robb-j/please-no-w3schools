@@ -1,7 +1,7 @@
 # please-no-w3schools
 
 Put a big red line through w3schools.com links in search results.
-This browser extension only adds [no-w3schools.css](/no-w3schools.css) to the websites below.
+This browser extension adds [no-w3schools.css](/no-w3schools.css) and [no-w3schools.js](/no-w3schools.js) to the websites below.
 The line and opacity of w3schools links are reset on hover if you are desperate.
 
 ![A search for css border with w3schools.com links crossed out](/support/general-screenshot.png)
